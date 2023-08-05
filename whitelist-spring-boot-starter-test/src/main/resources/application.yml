@@ -1,0 +1,8 @@
+server:
+  port: 8081
+
+# 白名单用户
+atlihao:
+  whitelist:
+    enabled: true
+    users: aaa,111,xiaofuge
